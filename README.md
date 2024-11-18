@@ -15,9 +15,12 @@ To set up the microservice, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/paul-nguyen-1/Microservice-A-Nutrition.git
+   cd path/Microservice-A-Nutrition.git
    ```
+2. Installation
+-  pip install pyzmq
+-  python3 zeromq_server.py
 
 ## Instructions for Programmatically Requesting Data from the Microservice
 
